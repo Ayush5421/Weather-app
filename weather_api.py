@@ -7,7 +7,6 @@ from datetime import *
 import requests
 import pytz
 from PIL import Image,ImageTk
-
 root=Tk()
 root.title("Weather App")
 root.geometry("890x470+300+200")
